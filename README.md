@@ -21,11 +21,11 @@ Room, Retrofit, Hilt, Glide, ImagePicker, Paging 3, Kotlin, Java, Android Studio
 
 ### Сертификаты Нетологии
 
-- [Android-разработчик]
+- [Android-разработчик](https://github.com/StanAtilovich/Stan/blob/master/certificate.pdf)
 
-- [GIT])
+- [GIT](https://github.com/StanAtilovich/Stan/blob/master/Git.pdf)
 
-- [Kotlin]
+- [Kotlin](https://github.com/StanAtilovich/Stan/blob/master/Kotlin.pdf)
 
-- [Java]
+- [Java](https://github.com/StanAtilovich/Stan/blob/master/Java.pdf)
 
